@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Links</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; background: #f4f4f4; }
+        .container { margin: 50px auto; width: 90%; max-width: 400px; }
+        .link { display: block; padding: 10px; margin: 10px 0; background: #008CBA; color: white; text-decoration: none; border-radius: 5px; }
+        .link:hover { background: #005f7f; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>362 Report</h1>
+        <a class="link" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWMizu1n8fNfn-H9tMUM35no8Ab-RmAGoZnYc2gUeb5BmxWleS5SAejuvhYUIaO6fVb2eOdzb_7Xe/pubhtml?gid=183403516&single=true" target="_blank">Budget Hari ini</a>
+        <a class="link" href="https://docs.google.com/spreadsheets/d/1d5qXqEPMKAO0ETfY8ay7Ap3LOEHeFDOubnXPi5BQ2Jo/edit?usp=sharing" target="_blank">Monthly Sales Report</a>
+        <a class="link" href="https://t.me/pinjampdetbot" target="_blank">Cek Status peminjaman PDET</a>
+    </div>
+</body>
+</html>
